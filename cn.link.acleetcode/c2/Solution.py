@@ -45,14 +45,12 @@ if __name__ == "__main__":
     n11 = ListNode(2)
     n12 = ListNode(4)
     n13 = ListNode(3)
-
     n11.next = n12
     n12.next = n13
 
     n21 = ListNode(5)
     n22 = ListNode(6)
     n23 = ListNode(4)
-
     n21.next = n22
     n22.next = n23
 
